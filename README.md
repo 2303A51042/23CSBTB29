@@ -2,3 +2,4 @@
 https://github.com/2303A51042/23CSBTB29/blob/main/LAB1.ipynb
 https://github.com/2303A51042/23CSBTB29/blob/main/Untitled2.ipynb
 https://github.com/2303A51042/23CSBTB29/blob/main/Untitled2.ipynb
+https://github.com/2303A51042/23CSBTB29/blob/main/EXAM%20SVM.ipynb
